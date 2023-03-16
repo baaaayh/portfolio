@@ -1,0 +1,47 @@
+@font-face {
+    font-family: "NanumGothic";
+    font-style: normal;
+    font-weight: 800;
+    src: local("※"), local("※");
+    src: url("./NanumGothicExtraBold.eot");
+    src: url("./NanumGothicExtraBold.eot?#iefix") format("embedded-opentype");
+    src: url("./NanumGothicExtraBold.woff") format("woff"),
+        url("./NanumGothicExtraBold.woff2") format("woff2");
+    src: url("./NanumGothicExtraBold.otf") format("opentype");
+}
+
+@font-face {
+    font-family: "NanumGothic";
+    font-style: normal;
+    font-weight: 700;
+    src: local("※"), local("※");
+    src: url("./NanumGothicBold.eot");
+    src: url("./NanumGothicBold.eot?#iefix") format("embedded-opentype");
+    src: url("./NanumGothicBold.woff") format("woff"),
+        url("./NanumGothicBold.woff2") format("woff2");
+    src: url("./NanumGothicBold.otf") format("opentype");
+}
+
+@font-face {
+    font-family: "NanumGothic";
+    font-style: normal;
+    font-weight: 400;
+    src: local("※"), local("※");
+    src: url("./NanumGothic.eot");
+    src: url("./NanumGothic.eot?#iefix") format("embedded-opentype");
+    src: url("./NanumGothic.woff") format("woff"),
+        url("./NanumGothic.woff2") format("woff2");
+    src: url("./NanumGothic.otf") format("opentype");
+}
+
+@font-face {
+    font-family: "NanumGothic";
+    font-style: normal;
+    font-weight: 300;
+    src: local("※"), local("※");
+    src: url("./NanumGothicLight.eot");
+    src: url("./NanumGothicLight.eot?#iefix") format("embedded-opentype");
+    src: url("./NanumGothicLight.woff") format("woff"),
+        url("./NanumGothicLight.woff2") format("woff2");
+    src: url("./NanumGothicLight.otf") format("opentype");
+}
