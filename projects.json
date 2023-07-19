@@ -47,7 +47,7 @@
                 "contribution": "100%",
                 "period": "2 Days",
                 "desc": "빠른 시간 안에 작업했던 프로젝트입니다. Flexible Box와 Table, Table-cell 을 활용한 구조를 깊게 경험해 볼 수 있는 프로젝트였습니다. ",
-                "url": "https://edudonation2022.teachforkorea.go.kr/"
+                "url": "https://www.teachforkorea.go.kr/home/kor/fair/main/main.do"
             },
             {
                 "id": 22005,
@@ -110,18 +110,6 @@
                 "url": "https://www.culture.go.kr/wday/movie/movieList.do"
             },
             {
-                "id": 22010,
-                "img": "img/22010.jpg",
-                "sort": "구축 프로젝트",
-                "title": "교육기부 뉴스래터",
-                "tools": "VS Code, Eclipse, SVN, Photoshop",
-                "workers": 2,
-                "contribution": "70%",
-                "period": "1 Days",
-                "desc": "뉴스레터의 신청, 취소 등 입력 폼들을 많이 접해볼 수 있었던 프로젝트였습니다.",
-                "url": "https://newsletter.teachforkorea.go.kr/newsletter.html"
-            },
-            {
                 "id": 22011,
                 "img": "img/22011.jpg",
                 "sort": "구축 프로젝트",
@@ -131,7 +119,7 @@
                 "contribution": "60%",
                 "period": "5 Days",
                 "desc": "많은 양의 페이지와 팝업, 입력 폼 등으로 3명의 작업자가 진행했음에도 빠듯한 일정으로 마무리된 프로젝트입니다. 그만큼 소스의 재사용에 대해 많이 생각해 볼수 있는 프로젝트였습니다.",
-                "url": "개발 중"
+                "url": "https://www.teachforkorea.go.kr/home/kor/main.do"
             },
             {
                 "id": 22012,
@@ -143,7 +131,7 @@
                 "contribution": "50%",
                 "period": "3 Days",
                 "desc": "앱을 접해볼 기회가 많이 없었기 때문에 굉장히 재밌게 작업했던 프로젝트였고, 특히 앱에서 vw를 사용해 수치를 정하는 것을 잘 익힐 수 있는 프로젝트였습니다.",
-                "url": "개발 중"
+                "url": "https://play.google.com/store/apps/details?id=kr.co.inergy.selftest"
             },
             {
                 "id": 22013,
@@ -155,7 +143,7 @@
                 "contribution": "60%",
                 "period": "4 Days",
                 "desc": "까다로운 프로젝트였음에도 다른 작업자들과 협업으로 빠르게 마칠 수 있었던 프로젝트였습니다. 왜 커뮤니케이션이 웹 퍼블리셔의 기본 소양인지 다시 한 번 느낄 수 있었던 프로젝트였습니다.",
-                "url": "개발 중"
+                "url": "https://jaripon.ncrc.or.kr/home/kor/main.do"
             },
             {
                 "id": 22014,
