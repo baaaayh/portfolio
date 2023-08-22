@@ -2,6 +2,18 @@
     "data": {
         "projects": [
             {
+                "id": 23001,
+                "img": "img/23001.jpg",
+                "sort": "클론코딩",
+                "title": "루이셀",
+                "tools": "VS Code, Github, SourceTree",
+                "workers": 1,
+                "contribution": "100%",
+                "period": "3 Days",
+                "desc": "GSAP ScrollTrigger에 대해서 알아 볼 수 있었던 작업물이었습니다. pc와 반응형에서 다른 애니메이션을 적용시켜 볼 수 있었습니다.",
+                "url": "https://baaaayh.github.io/workspace/rooicell/"
+            },
+            {
                 "id": 22001,
                 "img": "img/22001.jpg",
                 "sort": "구축 프로젝트",
