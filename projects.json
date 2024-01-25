@@ -2,6 +2,18 @@
     "data": {
         "projects": [
             {
+                "id": 24001,
+                "img": "img/24001.jpg",
+                "sort": "구축 프로젝트",
+                "title": "한국카본",
+                "tools": "VS Code, Github, SourceTree, Figma",
+                "workers": 2,
+                "contribution": "95%",
+                "period": "25 Days",
+                "desc": "GSAP ScrollTrigger를 심도 있게 경험하고 다양한 인터랙션을 만들어 볼 수 있었으며, PC와 MOBILE 사이 레이아웃을 위해 여러 스크립트들을 제작해 볼 수 있었던 프로젝트였습니다. 연혁 페이지에서는 JSON 데이터를 가져와 돔을 만들어 처리하는 과정과 함께 ScrollTrigger를 사용하여 인터랙션을 구현했습니다.",
+                "url": "https://www.hcarbon.com/"
+            },
+            {
                 "id": 23001,
                 "img": "img/23001.jpg",
                 "sort": "클론코딩",
