@@ -14,6 +14,18 @@
 				"url": "https://www.bdot.co.kr/"
 			},
 			{
+				"id": 24005,
+				"img": "img/24005.jpg",
+				"sort": "사이드 프로젝트",
+				"title": "비닷크리에이티브 DB",
+				"tools": "Nuxt3, MongoDB, VS Code, Github, SourceTree",
+				"workers": 1,
+				"contribution": "100%",
+				"period": "10 Days",
+				"desc": "Nuxt3를 사용하여 게시판 형태의 웹을 만들어볼 수 있었습니다. GET, POST, PATCH, DELETE 등의 요청과 함께 Nuxt에 대해 많이 알아 볼 수 있었던 프로젝트였습니다.",
+				"url": "https://github.com/baaaayh/projects/tree/main/nuxt3"
+			},
+			{
 				"id": 24003,
 				"img": "img/24003.jpg",
 				"sort": "리뉴얼 프로젝트",
